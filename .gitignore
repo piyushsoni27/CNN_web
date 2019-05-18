@@ -1,0 +1,5 @@
+# Don't track content of these folders
+cifar-10-batches-py/
+.ipynb_checkpoints/
+
+cifar-10-python.tar.gz
